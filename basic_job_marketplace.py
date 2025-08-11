@@ -124,15 +124,7 @@ mcp = FastMCP(
     "Basic Job Marketplace - Two Channels",
     auth=SimpleBearerAuthProvider(TOKEN),
 )
-@mcp.app.get("/")
-async def health_check():
-    return {"status": "healthy", "service": "KaamConnect MCP Server", "mcp_endpoint": "/mcp"}
 
-@mcp.app.get("/health")
-async def health():
-    return {"status": "ok"}
-
-# Tool: validate (your existing code continues here...)
 # Tool: validate
 @mcp.tool
 async def validate() -> str:
