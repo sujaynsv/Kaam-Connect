@@ -1,7 +1,10 @@
-# KaamConnect - Multilingual Job Marketplace
+# KaamConnect – Multilingual Job Marketplace
 
-> *"Connecting Skills, Creating Opportunities"* - Bridging India's informal workforce across language barriers.
+> _"Connecting Skills, Creating Opportunities"_ — Bridging India’s informal workforce across language barriers.
 
+KaamConnect is a multilingual job marketplace designed for India’s informal workforce. It enables job seekers and job providers to connect seamlessly across 12+ Indian languages using automatic translation and cross-language matching.
+
+---
 ## 🌟 Features
 
 - **Multilingual Support**: 12+ Indian languages (Hindi, Tamil, Telugu, Bengali, etc.)
